@@ -78,7 +78,7 @@
             this.Controls.Add(this.EnWord);
             this.Controls.Add(this.webBrowser1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "영어 과거분사 원형 -> 과거분사";
             this.ResumeLayout(false);
             this.PerformLayout();
 
