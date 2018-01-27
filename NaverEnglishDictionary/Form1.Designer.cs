@@ -77,6 +77,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.EnWord);
             this.Controls.Add(this.webBrowser1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "영어 과거분사 원형 -> 과거분사";
             this.ResumeLayout(false);
